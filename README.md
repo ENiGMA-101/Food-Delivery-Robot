@@ -35,7 +35,6 @@
 
 ## 📸 Project Preview
 
-<img width="960" height="540" alt="3D videos" src="https://github.com/user-attachments/assets/8567c61c-07b1-42ea-88b3-b5ba76b4a77d" />
 
 ---
 
@@ -333,7 +332,7 @@ The model represents:
 
 ### Food Delivery Robot — 3D Design
 
-<img src="assets/3d-model.png" alt="3D Model of Indoor Food Delivery Robot" width="850">
+<img width="960" height="540" alt="3D videos" src="https://github.com/user-attachments/assets/8567c61c-07b1-42ea-88b3-b5ba76b4a77d" />
 
 </div>
 
@@ -572,7 +571,7 @@ The current prototype focuses on the core autonomous navigation and delivery con
 |---|---|---|
 | **Hamdil Hasan** | [@ENiGMA-101](https://github.com/ENiGMA-101) | Project Lead · Embedded Systems · Software & Integration |
 | **Lima** | [@sumaya203](https://github.com/sumaya203) | Hardware · Design · Project Development |
-| **Sifat** | **MD. JAMSHED ALAM SEFAT** | Hardware · Design · Project Development |
+| **Sifat** | [@JamshedSifat](https://github.com/JamshedSifat) | Hardware · Design · Project Development |
 
 </div>
 
@@ -589,7 +588,7 @@ Responsible for the overall project direction, embedded programming, system inte
 Contributed to hardware implementation, design, and project development.
 
 #### 👨‍💻 Sifat
-**Name:** MD. JAMSHED ALAM SEFAT
+**Name:** [@JamshedSifat](https://github.com/JamshedSifat)
 
 Contributed to hardware implementation, design, and project development.
 
