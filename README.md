@@ -35,7 +35,7 @@
 
 ## 📸 Project Preview
 
-<!-- Add your GIF here later -->
+<img width="960" height="540" alt="3D videos" src="https://github.com/user-attachments/assets/8567c61c-07b1-42ea-88b3-b5ba76b4a77d" />
 
 ---
 
